@@ -1,0 +1,30 @@
+body{
+    background-color: lavender;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav{
+    list-style-type: none;
+}
+
+#img{
+    border: 3px solid rgb(14, 43, 209);
+    border-radius: 20px;
+    margin-left: 40%;
+    padding: 5px;
+}
+
+footer{
+    text-align: center;
+}
+h3{
+    color: blue;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+p{
+    text-align: center;
+    font-family: cursive;
+}
